@@ -1,7 +1,7 @@
 {
-  "name": "@yoopta/toolbar-custom",
-  "version": "4.9.4-custom",
-  "description": "Toolbar tool for Yoopta Editor",
+  "name": "@custom-editor/toolbar",
+  "version": "1.0.0",
+  "description": "Кастомный тулбар для редактора",
 
   "license": "MIT",
   "private": false,
@@ -13,7 +13,7 @@
     "dist/"
   ],
   "peerDependencies": {
-    "@yoopta/editor": ">=4.0.0",
+    "@custom-editor/core": ">=1.0.0",
     "react": ">=17.0.2",
     "react-dom": ">=17.0.2"
   },
