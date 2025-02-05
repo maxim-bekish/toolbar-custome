@@ -1,0 +1,1 @@
+{"version":3,"file":"hooks.d.ts","sourceRoot":"","sources":["../../../src/components/SelectionBox/hooks.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,sBAAsB,EAAE,sBAAsB,EAAE,MAAM,gBAAgB,CAAC;AAgChF,KAAK,uBAAuB,GAAG,sBAAsB,GAAG;IACtD,OAAO,EAAE,MAAM,IAAI,CAAC;CACrB,CAAC;AAIF,eAAO,MAAM,uBAAuB,qBAAsB,sBAAsB,KAAG,uBA+FlF,CAAC"}

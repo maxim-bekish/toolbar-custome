@@ -1,0 +1,1 @@
+{"version":3,"file":"increaseBlockDepth.d.ts","sourceRoot":"","sources":["../../../src/editor/blocks/increaseBlockDepth.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,SAAS,EAAE,eAAe,EAAE,MAAM,UAAU,CAAC;AAGtD,MAAM,MAAM,iBAAiB,GAAG;IAC9B,OAAO,CAAC,EAAE,MAAM,CAAC;IACjB,EAAE,CAAC,EAAE,eAAe,CAAC;CACtB,CAAC;AAEF,wBAAgB,kBAAkB,CAAC,MAAM,EAAE,SAAS,EAAE,OAAO,GAAE,iBAAsB,QAgBpF"}

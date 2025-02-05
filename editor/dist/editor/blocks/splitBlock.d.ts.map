@@ -1,0 +1,1 @@
+{"version":3,"file":"splitBlock.d.ts","sourceRoot":"","sources":["../../../src/editor/blocks/splitBlock.ts"],"names":[],"mappings":"AAKA,OAAO,EAAE,WAAW,EAAgB,SAAS,EAAmB,MAAM,UAAU,CAAC;AAIjF,MAAM,MAAM,iBAAiB,GAAG;IAC9B,KAAK,CAAC,EAAE,OAAO,CAAC;IAChB,KAAK,CAAC,EAAE,WAAW,CAAC;CACrB,CAAC;AAEF,wBAAgB,UAAU,CAAC,MAAM,EAAE,SAAS,EAAE,OAAO,GAAE,iBAAsB,QA6C5E"}

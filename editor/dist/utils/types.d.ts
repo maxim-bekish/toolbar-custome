@@ -1,0 +1,2 @@
+export type WithoutFirstArg<F> = F extends (x: any, ...args: infer P) => infer R ? (...args: P) => R : never;
+//# sourceMappingURL=types.d.ts.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"getParentElementPath.d.ts","sourceRoot":"","sources":["../../../src/editor/elements/getParentElementPath.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAAE,MAAM,OAAO,CAAC;AAG7B,OAAO,EAAE,YAAY,EAAE,SAAS,EAAE,MAAM,UAAU,CAAC;AAEnD,wBAAgB,oBAAoB,CAAC,MAAM,EAAE,SAAS,EAAE,OAAO,EAAE,MAAM,EAAE,OAAO,EAAE,YAAY,GAAG,IAAI,GAAG,SAAS,CAkBhH"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"dnd.d.ts","sourceRoot":"","sources":["../../../src/components/Editor/dnd.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,oBAAoB,CAAC;AAC/C,OAAO,EAAwD,YAAY,EAAE,cAAc,EAAE,MAAM,eAAe,CAAC;AAInH,eAAO,MAAM,iBAAiB;YAA0B,SAAS;;;2BAYrB,YAAY;6BAUV,cAAc;CAK3D,CAAC"}

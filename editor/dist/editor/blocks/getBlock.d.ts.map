@@ -1,0 +1,1 @@
+{"version":3,"file":"getBlock.d.ts","sourceRoot":"","sources":["../../../src/editor/blocks/getBlock.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,eAAe,EAAE,MAAM,UAAU,CAAC;AAEtD,MAAM,MAAM,eAAe,GAAG;IAC5B,EAAE,CAAC,EAAE,eAAe,CAAC;IACrB,EAAE,CAAC,EAAE,MAAM,CAAC;CACb,CAAC;AAEF,wBAAgB,QAAQ,CAAC,MAAM,EAAE,SAAS,EAAE,OAAO,EAAE,eAAe,yEAkBnE"}

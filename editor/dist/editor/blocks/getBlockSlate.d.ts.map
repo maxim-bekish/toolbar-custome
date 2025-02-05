@@ -1,0 +1,1 @@
+{"version":3,"file":"getBlockSlate.d.ts","sourceRoot":"","sources":["../../../src/editor/blocks/getBlockSlate.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,SAAS,EAAmB,eAAe,EAAE,MAAM,UAAU,CAAC;AAEpF,MAAM,MAAM,oBAAoB,GAAG;IACjC,EAAE,CAAC,EAAE,eAAe,CAAC;IACrB,EAAE,CAAC,EAAE,MAAM,CAAC;CACb,CAAC;AAEF,wBAAgB,aAAa,CAAC,MAAM,EAAE,SAAS,EAAE,OAAO,EAAE,oBAAoB,GAAG,WAAW,CAqB3F"}
