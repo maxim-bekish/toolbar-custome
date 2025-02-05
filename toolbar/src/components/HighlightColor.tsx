@@ -14,7 +14,10 @@ const COLOR_PRESETS = {
     { name: 'Orange', value: '#CC772F' },
     { name: 'Yellow', value: '#C29243' },
     { name: 'Green', value: '#548064' },
-
+    { name: 'Blue', value: '#477DA5' },
+    { name: 'Purple', value: '#A48BBE' },
+    { name: 'Pink', value: '#B35588' },
+    { name: 'Red', value: '#C4554D' },
   ],
   background: [
     { name: 'Default', value: 'unset' },
@@ -23,7 +26,10 @@ const COLOR_PRESETS = {
     { name: 'Orange', value: '#F8ECDF' },
     { name: 'Yellow', value: '#FAF3DD' },
     { name: 'Green', value: '#EEF3ED' },
-
+    { name: 'Blue', value: '#E9F3F7' },
+    { name: 'Purple', value: '#F6F3F8' },
+    { name: 'Pink', value: '#F9F2F5' },
+    { name: 'Red', value: '#FAECEC' },
   ],
 };
 
