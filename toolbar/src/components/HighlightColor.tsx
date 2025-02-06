@@ -18,6 +18,7 @@ const COLOR_PRESETS = {
     { name: 'Purple', value: '#A48BBE' },
     { name: 'Pink', value: '#B35588' },
     { name: 'Red', value: '#C4554D' },
+
   ],
   background: [
     { name: 'Default', value: 'unset' },
@@ -30,6 +31,7 @@ const COLOR_PRESETS = {
     { name: 'Purple', value: '#F6F3F8' },
     { name: 'Pink', value: '#F9F2F5' },
     { name: 'Red', value: '#FAECEC' },
+
   ],
 };
 

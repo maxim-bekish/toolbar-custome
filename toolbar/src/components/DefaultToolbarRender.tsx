@@ -1,32 +1,32 @@
-import { HighlightColor } from '@custom-editor/toobar/src/components/HighlightColor';
-import { buildActionMenuRenderProps } from '@custom-editor/toobar/src/components/utils';
-import { ToolbarRenderProps } from '@custom-editor/toobar/src/types';
-import { autoUpdate, flip, inline, offset, shift, useFloating } from '@floating-ui/react';
 import {
-    ChevronDownIcon,
-    ChevronUpIcon,
-    CodeIcon,
-    FontBoldIcon,
-    FontItalicIcon,
-    StrikethroughIcon,
-    TextAlignCenterIcon,
-    TextAlignLeftIcon,
-    TextAlignRightIcon,
-    UnderlineIcon,
+  FontBoldIcon,
+  FontItalicIcon,
+  StrikethroughIcon,
+  CodeIcon,
+  UnderlineIcon,
+  ChevronDownIcon,
+  ChevronUpIcon,
+  TextAlignRightIcon,
+  TextAlignLeftIcon,
+  TextAlignCenterIcon,
 } from '@radix-ui/react-icons';
 import * as Toolbar from '@radix-ui/react-toolbar';
-import {
-    Blocks,
-    findPluginBlockByPath,
-    findSlateBySelectionPath,
-    HOTKEYS,
-    SlateElement,
-    UI,
-    useYooptaTools,
-    YooptaBlockData,
-} from '@yoopta/editor';
+import { useFloating, offset, flip, shift, inline, autoUpdate } from '@floating-ui/react';
 import { CSSProperties, MouseEvent, useEffect, useRef, useState } from 'react';
-import { Editor, Element, NodeEntry, Range } from 'slate';
+import { HighlightColor } from './HighlightColor';
+import {
+  findSlateBySelectionPath,
+  HOTKEYS,
+  SlateElement,
+  useYooptaTools,
+  UI,
+  Blocks,
+  findPluginBlockByPath,
+  YooptaBlockData,
+} from '@yoopta/editor';
+import { Editor, Element, NodeEntry, Range, Transforms } from 'slate';
+import { ToolbarRenderProps } from '../types';
+import { buildActionMenuRenderProps } from './utils';
 
 const { Overlay, Portal } = UI;
 

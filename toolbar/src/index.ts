@@ -1,6 +1,6 @@
-import { Toolbar } from '@custom-editor/toobar/src/components/Toolbar';
-export { DefaultToolbarRender } from '@custom-editor/toobar/src/components/DefaultToolbarRender';
-export { ToolbarRenderProps } from '@custom-editor/toobar/src/types';
+import { Toolbar } from './components/Toolbar';
+export { DefaultToolbarRender } from './components/DefaultToolbarRender';
+export { ToolbarRenderProps } from './types';
 export default Toolbar;
 
-import '@custom-editor/toobar/src/styles.css';
+import './styles.css';

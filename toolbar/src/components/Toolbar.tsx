@@ -1,9 +1,9 @@
-import { DefaultToolbarRender } from '@custom-editor/toobar/src/components/DefaultToolbarRender';
-import { ToolbarToolProps } from '@custom-editor/toobar/src/types';
-import { autoUpdate, flip, inline, offset, shift, useFloating, useTransitionStyles } from '@floating-ui/react';
-import { UI, useYooptaEditor } from '@yoopta/editor';
-import throttle from 'lodash.throttle';
 import { useEffect, useState } from 'react';
+import { DefaultToolbarRender } from './DefaultToolbarRender';
+import { useFloating, offset, flip, shift, inline, autoUpdate, useTransitionStyles } from '@floating-ui/react';
+import throttle from 'lodash.throttle';
+import { useYooptaEditor, UI } from '@yoopta/editor';
+import { ToolbarToolProps } from '../types';
 
 const { Portal } = UI;
 
