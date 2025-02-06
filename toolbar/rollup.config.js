@@ -1,5 +1,4 @@
 import { createRollupConfig } from '../rollup';
-
 const pkg = require('./package.json');
 export default createRollupConfig({
   pkg,
