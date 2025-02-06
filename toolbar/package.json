@@ -1,6 +1,6 @@
 {
 	"name": "@custom-editor/toolbar",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Кастомный тулбар для редактора",
 	"license": "MIT",
 	"private": false,
